@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe/app/src/main/res/layout/activity_end_screen.xml" value="0.416015625" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe/app/src/main/res/layout/activity_icon_select.xml" value="0.416015625" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe/app/src/main/res/layout/activity_main.xml" value="0.44565217391304346" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe/app/src/main/res/layout/activity_name_select.xml" value="0.416015625" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe/app/src/main/res/layout/activity_start_menu.xml" value="0.4466666666666667" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe/app/src/main/res/layout/activity_tic_tac_toe.xml" value="0.416015625" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe/app/src/main/res/layout/activity_win_screen.xml" value="0.416015625" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Complete/app/src/main/res/layout/activity_name_select.xml" value="0.5546875" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Complete/app/src/main/res/layout/activity_start_menu.xml" value="0.55" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Complete/app/src/main/res/layout/activity_tic_tac_toe.xml" value="0.5546875" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Complete/app/src/main/res/layout/activity_win_screen.xml" value="0.5067934782608695" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Oct_25th_Sound/app/src/main/res/layout/activity_icon_select.xml" value="0.33125" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Oct_25th_Sound/app/src/main/res/layout/activity_name_select.xml" value="0.33125" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Oct_25th_Sound/app/src/main/res/layout/activity_start_menu.xml" value="0.33125" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Oct_25th_Sound/app/src/main/res/layout/activity_tic_tac_toe.xml" value="0.5546875" />
+        <entry key="..\:/Android_Studio_Assignments/INFT2100_Project_01/Tic-Tac-Toe_Oct_25th_Sound/app/src/main/res/layout/activity_win_screen.xml" value="0.33125" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/drawable/ic_human.xml" value="0.1" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/layout/activity_icon_select.xml" value="0.1" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/layout/activity_name_select.xml" value="0.2957427536231884" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/layout/activity_start_menu.xml" value="0.28306159420289856" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/layout/activity_tic_tac_toe.xml" value="0.2957427536231884" />
+        <entry key="..\:/WorkSpaces/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/layout/activity_tic_tac_toe2.xml" value="0.2957427536231884" />
+        <entry key="..\:/WorkSpaces/Tic-Tac-Toe_INFT2100/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/layout/activity_icon_select.xml" value="0.2957427536231884" />
+        <entry key="..\:/WorkSpaces/Tic-Tac-Toe_INFT2100/INFT2100_Project_01/Kyle_Work/Tic-Tac-Toe/app/src/main/res/layout/activity_tic_tac_toe.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
