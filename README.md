@@ -5,6 +5,8 @@ to 3 different icon packs. First to 5 wins is the winner of the match.
 
 Minimum API Required: 23
 
+Git clone link: https://github.com/Kyle-McInnis/Tic-Tac-Toe.git
+
 How to use:
 
 1. User can start game with normal "X" and "O" icons by selecting the "Start Game" button on the main menu.
